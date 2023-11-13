@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(12, 32, 255);
+}
+h1{
+    color: darkred;
+}
+#boton{
+    background-color: paleturquoise;
+    border-radius: 20px;
+}
+#show_sketch{
+    border-radius: 20px dotted rgb(50, 146, 50);
+    border-style: dotted;
+}
